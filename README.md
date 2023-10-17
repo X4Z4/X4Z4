@@ -12,7 +12,7 @@
 [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/X4Z4/Listagem-de-estoque-C)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X4Z4&hide_progress=true)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X4Z4&hide_progress=true)
 
 ## Tecnologias que eu aprendi
 <div style="display: inline_block">
